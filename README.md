@@ -71,6 +71,7 @@ Start contributing to open-source DSA projects
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
@@ -146,6 +147,7 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0441-arranging-coins) |
