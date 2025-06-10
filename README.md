@@ -82,6 +82,7 @@ Start contributing to open-source DSA projects
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1833-find-the-highest-altitude) |
@@ -163,4 +164,5 @@ Start contributing to open-source DSA projects
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0441-arranging-coins) |
+| [1646-kth-missing-positive-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
