@@ -1,8 +1,11 @@
 📚 Data Structures & Algorithms Practice
+
 Welcome to my Data Structures and Algorithms (DSA) practice repository!
+
 This repo contains my personal journey of solving coding problems while learning and improving problem-solving skills in computer science fundamentals.
 
 🚀 Purpose
+
 Strengthen my understanding of algorithms and data structures
 
 Prepare for coding interviews
@@ -12,18 +15,25 @@ Build a long-term coding habit
 Keep a track of problems solved across different platforms like LeetCode, GeeksforGeeks, Codeforces, etc.
 
 🗂️ Folder Structure
+
 dsa-practice/
+
 ├── README.md
+
 ├── linked_lists/
 │   └── reverseLinkedList.py
+
 ├── arrays/
 │   └── twoSum.py
+
 ├── recursion/
 │   └── factorial.py
 └── ...
+
 Each folder contains solutions related to that specific topic/category.
 
 📌 Topics need to cover
+
 ✅ Arrays & Strings
 
 ✅ Linked Lists
@@ -43,9 +53,11 @@ Each folder contains solutions related to that specific topic/category.
 ✅ Miscellaneous Challenges
 
 ✏️ Naming Convention
+
 Each file name corresponds to the problem title, and solutions are written in Python mainly.
 
 🧩 Example Problems
+
 linked_lists/reverseLinkedList.py → Reverse a singly linked list
 
 arrays/twoSum.py → Two Sum problem
