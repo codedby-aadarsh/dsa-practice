@@ -85,6 +85,7 @@ Start contributing to open-source DSA projects
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1635-number-of-good-pairs) |
@@ -109,6 +110,7 @@ Start contributing to open-source DSA projects
 | [0657-robot-return-to-origin](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0657-robot-return-to-origin) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0898-transpose-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
