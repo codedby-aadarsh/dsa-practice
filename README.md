@@ -71,3 +71,15 @@ Attempt 200+ DSA problems by [15 july 2025]
 
 Start contributing to open-source DSA projects
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
+<!---LeetCode Topics End-->
