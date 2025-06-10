@@ -96,6 +96,7 @@ Start contributing to open-source DSA projects
 | [1833-find-the-highest-altitude](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1899-count-items-matching-a-rule) |
 | [2058-concatenation-of-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2058-concatenation-of-array) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Start contributing to open-source DSA projects
 | [1797-goal-parser-interpretation](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1899-count-items-matching-a-rule) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
