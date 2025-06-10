@@ -78,8 +78,13 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
+| [2058-concatenation-of-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
