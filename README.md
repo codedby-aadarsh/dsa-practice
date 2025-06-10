@@ -149,6 +149,7 @@ Start contributing to open-source DSA projects
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
