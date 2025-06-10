@@ -145,6 +145,7 @@ Start contributing to open-source DSA projects
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0441-arranging-coins) |
