@@ -68,6 +68,7 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0001-two-sum) |
+| [0566-reshape-the-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -89,12 +90,14 @@ Start contributing to open-source DSA projects
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1677-matrix-diagonal-sum) |
