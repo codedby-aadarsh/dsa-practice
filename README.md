@@ -165,6 +165,7 @@ Start contributing to open-source DSA projects
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1894-merge-strings-alternately](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -178,6 +179,7 @@ Start contributing to open-source DSA projects
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
+| [1894-merge-strings-alternately](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
