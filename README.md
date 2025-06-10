@@ -188,6 +188,7 @@ Start contributing to open-source DSA projects
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0908-middle-of-the-linked-list) |
@@ -224,11 +225,13 @@ Start contributing to open-source DSA projects
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -236,4 +239,5 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
