@@ -13,6 +13,6 @@ class Solution(object):
         while(node and node.next):
             if node.val==node.next.val:
                 node.next=node.next.next 
-                continue
-            node=node.next
+            else:
+                node=node.next
         return head
