@@ -80,6 +80,7 @@ Start contributing to open-source DSA projects
 | [0898-transpose-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
@@ -108,6 +109,7 @@ Start contributing to open-source DSA projects
 | [0566-reshape-the-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -168,5 +170,6 @@ Start contributing to open-source DSA projects
 | [0367-valid-perfect-square](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0441-arranging-coins) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
