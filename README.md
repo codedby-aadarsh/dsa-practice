@@ -74,6 +74,7 @@ Start contributing to open-source DSA projects
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0566-reshape-the-matrix) |
 | [0792-binary-search](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
@@ -170,6 +171,7 @@ Start contributing to open-source DSA projects
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
