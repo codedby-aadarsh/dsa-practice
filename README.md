@@ -69,6 +69,7 @@ Start contributing to open-source DSA projects
 | ------- |
 | [0001-two-sum](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0001-two-sum) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
@@ -112,6 +113,7 @@ Start contributing to open-source DSA projects
 ## Math
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
