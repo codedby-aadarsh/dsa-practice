@@ -67,6 +67,7 @@ Start contributing to open-source DSA projects
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
@@ -87,6 +88,7 @@ Start contributing to open-source DSA projects
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
