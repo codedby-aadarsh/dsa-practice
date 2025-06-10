@@ -71,6 +71,7 @@ Start contributing to open-source DSA projects
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -126,6 +127,7 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -133,6 +135,7 @@ Start contributing to open-source DSA projects
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -158,6 +161,7 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
