@@ -150,6 +150,7 @@ Start contributing to open-source DSA projects
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1899-count-items-matching-a-rule) |
 ## Two Pointers
 |  |
