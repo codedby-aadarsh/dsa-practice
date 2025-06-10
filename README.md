@@ -169,6 +169,7 @@ Start contributing to open-source DSA projects
 | [1899-count-items-matching-a-rule](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2128-reverse-prefix-of-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2128-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Start contributing to open-source DSA projects
 | [0557-reverse-words-in-a-string-iii](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2128-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,4 +210,8 @@ Start contributing to open-source DSA projects
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0686-repeated-string-match) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
