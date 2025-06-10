@@ -89,6 +89,7 @@ Start contributing to open-source DSA projects
 | [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1646-kth-missing-positive-number) |
+| [1651-shuffle-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1833-find-the-highest-altitude) |
@@ -148,6 +149,7 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1899-count-items-matching-a-rule) |
 ## Two Pointers
 |  |
