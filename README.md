@@ -76,6 +76,7 @@ Start contributing to open-source DSA projects
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -166,5 +167,6 @@ Start contributing to open-source DSA projects
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0441-arranging-coins) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
