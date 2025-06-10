@@ -227,5 +227,10 @@ Start contributing to open-source DSA projects
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
