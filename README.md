@@ -156,6 +156,7 @@ Start contributing to open-source DSA projects
 | [0125-valid-palindrome](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0657-robot-return-to-origin) |
+| [0686-repeated-string-match](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -203,4 +204,5 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
