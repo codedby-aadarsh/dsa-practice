@@ -20,14 +20,11 @@ dsa-practice/
 
 ├── README.md
 
-├── linked_lists/
-│   └── reverseLinkedList.py
+├── reverseLinkedList.py
 
-├── arrays/
-│   └── twoSum.py
+├── twoSum.py
 
-├── recursion/
-│   └── factorial.py
+├── factorial.py
 └── ...
 
 Each folder contains solutions related to that specific topic/category.
@@ -56,13 +53,6 @@ Each folder contains solutions related to that specific topic/category.
 
 Each file name corresponds to the problem title, and solutions are written in Python mainly.
 
-🧩 Example Problems
-
-linked_lists/reverseLinkedList.py → Reverse a singly linked list
-
-arrays/twoSum.py → Two Sum problem
-
-More to come...
 
 ✨ Future Goals
 Complete major DSA topics
