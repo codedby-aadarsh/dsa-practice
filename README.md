@@ -137,6 +137,7 @@ Start contributing to open-source DSA projects
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1635-number-of-good-pairs) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Start contributing to open-source DSA projects
 | [1651-shuffle-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1797-goal-parser-interpretation) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1899-count-items-matching-a-rule) |
 ## Two Pointers
 |  |
