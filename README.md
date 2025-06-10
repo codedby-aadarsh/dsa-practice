@@ -67,6 +67,7 @@ Start contributing to open-source DSA projects
 ## Array
 |  |
 | ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2058-concatenation-of-array) |
