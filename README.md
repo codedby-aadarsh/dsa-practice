@@ -131,6 +131,7 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1635-number-of-good-pairs) |
@@ -159,4 +160,5 @@ Start contributing to open-source DSA projects
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
