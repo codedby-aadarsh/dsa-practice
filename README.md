@@ -237,6 +237,7 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0203-remove-linked-list-elements) |
