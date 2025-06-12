@@ -187,6 +187,7 @@ Start contributing to open-source DSA projects
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -236,6 +237,7 @@ Start contributing to open-source DSA projects
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0141-linked-list-cycle) |
