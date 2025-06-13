@@ -167,6 +167,7 @@ Start contributing to open-source DSA projects
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0058-length-of-last-word) |
@@ -237,6 +238,7 @@ Start contributing to open-source DSA projects
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
