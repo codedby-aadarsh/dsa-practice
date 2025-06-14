@@ -73,6 +73,7 @@ Start contributing to open-source DSA projects
 | [0035-search-insert-position](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
@@ -157,6 +158,7 @@ Start contributing to open-source DSA projects
 | [0002-add-two-numbers](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0441-arranging-coins) |
@@ -239,6 +241,7 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2128-reverse-prefix-of-word) |
