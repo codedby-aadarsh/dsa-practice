@@ -239,6 +239,7 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
@@ -270,5 +271,6 @@ Start contributing to open-source DSA projects
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
