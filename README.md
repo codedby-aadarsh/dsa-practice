@@ -77,6 +77,7 @@ Start contributing to open-source DSA projects
 | [0162-find-peak-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -134,6 +135,7 @@ Start contributing to open-source DSA projects
 | [0142-linked-list-cycle-ii](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -143,6 +145,7 @@ Start contributing to open-source DSA projects
 | ------- |
 | [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
