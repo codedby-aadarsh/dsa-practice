@@ -2,6 +2,7 @@ class MinStack(object):
 
     def __init__(self):
         self.buf=[] #initalise the stack as a list,dynamic one
+        self.min=[]
 
         
 
@@ -11,6 +12,10 @@ class MinStack(object):
         :rtype: None
         """
         self.buf.append(val)
+        if not self.min:
+            self.min.append(val)
+        else:
+            self.min.append(min(self.min[-1],val))
 
         
 
@@ -19,6 +24,8 @@ class MinStack(object):
         :rtype: None
         """
         self.buf.pop()
+        if self.min:
+            self.min.pop()
     
         
 
@@ -33,8 +40,7 @@ class MinStack(object):
         """
         :rtype: int
         """
-        return min(self.buf)
-        
+        return self.min[-1] if self.min else 0        
 
 
 # Your MinStack object will be instantiated and called as such:
