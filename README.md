@@ -183,6 +183,7 @@ Start contributing to open-source DSA projects
 | [0657-robot-return-to-origin](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0742-to-lower-case) |
+| [1078-remove-outermost-parentheses](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1205-defanging-an-ip-address) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1651-shuffle-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1651-shuffle-string) |
@@ -250,6 +251,7 @@ Start contributing to open-source DSA projects
 | [0155-min-stack](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0883-car-fleet](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0883-car-fleet) |
+| [1078-remove-outermost-parentheses](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
