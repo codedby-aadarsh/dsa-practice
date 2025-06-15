@@ -85,6 +85,7 @@ Start contributing to open-source DSA projects
 | [0792-binary-search](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0883-car-fleet](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -147,6 +148,7 @@ Start contributing to open-source DSA projects
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
+| [0883-car-fleet](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0883-car-fleet) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -247,6 +249,7 @@ Start contributing to open-source DSA projects
 | [0150-evaluate-reverse-polish-notation](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0883-car-fleet](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0883-car-fleet) |
 | [2128-reverse-prefix-of-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
@@ -279,4 +282,8 @@ Start contributing to open-source DSA projects
 | ------- |
 | [0155-min-stack](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0155-min-stack) |
 | [0838-design-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0838-design-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0883-car-fleet](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
