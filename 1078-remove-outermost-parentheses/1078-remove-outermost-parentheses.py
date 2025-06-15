@@ -1,18 +1,15 @@
 class Solution(object):
     def removeOuterParentheses(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        stack=[]
+        stack=0
         c=''
         for i in s:
             if i=='(':
                 if stack:
-                    c+=i
-                stack.append(i)
+                    c+='('
+                stack+=1
             else:
-                stack.pop()
+                stack-=1
                 if stack:
-                    c+=i
+                    c+=')'
+                
         return c
