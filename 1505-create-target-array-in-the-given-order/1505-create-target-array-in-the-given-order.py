@@ -1,7 +1,13 @@
-class Solution:
-    def createTargetArray(self, nums: List[int], index: List[int]) -> List[int]:
-        res=[]
-        for i in range(len(nums)):
-            res.insert(index[i],nums[i])
-        return res
+class Solution(object):
+    def createTargetArray(self, nums, index):
+        """
+        :type nums: List[int]
+        :type index: List[int]
+        :rtype: List[int]
+        """
+        ans=[]
+        for i,j in zip(nums,index):
+            ans.insert(j,i)
+        return ans
+
         
