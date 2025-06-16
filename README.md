@@ -78,6 +78,7 @@ Start contributing to open-source DSA projects
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -108,6 +109,7 @@ Start contributing to open-source DSA projects
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1833-find-the-highest-altitude) |
 ## Simulation
