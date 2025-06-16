@@ -137,6 +137,7 @@ Start contributing to open-source DSA projects
 | [0160-intersection-of-two-linked-lists](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -147,6 +148,7 @@ Start contributing to open-source DSA projects
 | [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0883-car-fleet](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0883-car-fleet) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -179,6 +181,7 @@ Start contributing to open-source DSA projects
 | [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0686-repeated-string-match) |
