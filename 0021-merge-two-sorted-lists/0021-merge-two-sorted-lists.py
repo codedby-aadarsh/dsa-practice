@@ -6,11 +6,11 @@
 
 class Solution(object):
     def mergeTwoLists(self, list1, list2):
-        dummy = ListNode(-1) #made a dummy linked list for return
+        dummy = ListNode(-1)
         tail = dummy
 
         while list1 and list2:
-            if list1.val < list2.val: #here we compare the list val with the second one and make the pointer to reference that one 
+            if list1.val < list2.val:
                 tail.next = list1
                 list1 = list1.next
             else:
