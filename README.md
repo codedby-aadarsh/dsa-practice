@@ -74,6 +74,7 @@ Start contributing to open-source DSA projects
 | [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -233,6 +234,7 @@ Start contributing to open-source DSA projects
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
