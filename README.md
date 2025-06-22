@@ -73,6 +73,7 @@ Start contributing to open-source DSA projects
 | [0035-search-insert-position](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -155,6 +156,7 @@ Start contributing to open-source DSA projects
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0242-valid-anagram) |
@@ -217,6 +219,7 @@ Start contributing to open-source DSA projects
 | [0027-remove-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
