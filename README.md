@@ -85,6 +85,7 @@ Start contributing to open-source DSA projects
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0566-reshape-the-matrix) |
@@ -149,6 +150,7 @@ Start contributing to open-source DSA projects
 | [0242-valid-anagram](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1635-number-of-good-pairs) |
@@ -162,6 +164,7 @@ Start contributing to open-source DSA projects
 | [0242-valid-anagram](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0883-car-fleet](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0883-car-fleet) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -228,6 +231,7 @@ Start contributing to open-source DSA projects
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0861-flipping-an-image) |
@@ -254,6 +258,7 @@ Start contributing to open-source DSA projects
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
