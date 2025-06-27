@@ -99,6 +99,7 @@ Start contributing to open-source DSA projects
 | [0882-peak-index-in-a-mountain-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0907-koko-eating-bananas) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -278,6 +279,7 @@ Start contributing to open-source DSA projects
 | [0540-single-element-in-a-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/codedby-aadarsh/dsa-practice/tree/master/1646-kth-missing-positive-number) |
 ## String Matching
