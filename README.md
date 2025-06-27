@@ -70,6 +70,7 @@ Start contributing to open-source DSA projects
 | [0001-two-sum](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0066-plus-one) |
@@ -263,6 +264,7 @@ Start contributing to open-source DSA projects
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/codedby-aadarsh/dsa-practice/tree/master/0162-find-peak-element) |
