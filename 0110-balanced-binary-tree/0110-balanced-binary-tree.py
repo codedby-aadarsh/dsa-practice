@@ -9,6 +9,6 @@ class Solution:
             self.balance=max(abs(left-right),self.balance)
             return 1+max(left,right)
         height(root)
-        return False if self.balance>1 else True
+        return self.balance<=1
     
     
